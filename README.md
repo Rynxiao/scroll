@@ -1,6 +1,12 @@
 # scroll
 上下滑动组件
 
+# 运行方式
+```javascript
+npm install
+npm run dev
+```
+
 # React 调用方式
 ```javascript
 /**
