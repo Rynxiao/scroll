@@ -1,0 +1,34 @@
+.my-scroll{
+    width: 100%;
+    height: 100%;
+}
+
+.react-iscroll .iscroll-pull-down > i,
+.react-iscroll .iscroll-pull-up > i {
+    width: 20px;
+    height: 20px;
+    background-size: 20px 40px;
+}
+
+.react-iscroll .iscroll-pull-down.scrolled-up {
+    margin-top: -31px;
+}
+
+.react-iscroll .iscroll-pull-down, .iscroll-pull-up {
+    color: #000;
+}
+
+.s-container {
+    overflow: hidden;
+}
+
+.padding {
+    background-color: #2eedf2;
+    padding: 20px 0;
+}
+
+.s-container .scroll-content>li {
+    padding: 30px 0;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+}

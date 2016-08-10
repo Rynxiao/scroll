@@ -1,0 +1,18 @@
+.scroll-wrapper {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.scroll {
+    width: 100%;
+    background-color: #fff;
+}
+
+.down-refresh, .up-load {
+    background-color: #ccc;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 12px;
+}
